@@ -1,0 +1,7 @@
+.vs
+.vscode
+**/*.db
+**/*.opendb
+.DS_Store
+*.DS_Storer
+Externals/Prebuild
